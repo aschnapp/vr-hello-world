@@ -8,8 +8,8 @@
     "build": "webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Schnapp",
+  "license": "MIT",
   "dependencies": {
     "aframe": "^0.6.1",
     "aframe-particle-system-component": "^1.0.10",
